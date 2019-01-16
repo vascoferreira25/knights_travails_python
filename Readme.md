@@ -1,10 +1,9 @@
 # The Odin Project - Project 2: Knights Travails
-Find more about [[https://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms][The Odin Project]].
+Find more about [https://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms](The Odin Project).
 
 ## Brief Notes
-- Implemented based on the answer of [[https://github.com/benjdelt/knights_travails/blob/master/main.rb][benjdelt]].
-- Code improved with the help of [[https://codereview.stackexchange.com/users/46840/carcigenicate][Carcigenicate]]: [[https://codereview.stackexchange.com/questions/192701/solving-knights-travails-problem-without-using-vector-for-position?noredirect=1#comment370264_192701][Code Review - Stack Exchange]]
-   
+- Implemented based on the answer of [https://github.com/benjdelt/knights_travails/blob/master/main.rb](benjdelt).
+  
 ## Introduction
 Solution to the Project 2: Knights Travails made in Python
    
