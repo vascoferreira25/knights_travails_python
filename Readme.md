@@ -1,8 +1,9 @@
 # The Odin Project - Project 2: Knights Travails
-Find more about [https://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms](The Odin Project).
+Find more about 
+[The Odin Project](https://www.theodinproject.com/courses/ruby-programming/lessons/data-structures-and-algorithms).
 
 ## Brief Notes
-- Implemented based on the answer of [https://github.com/benjdelt/knights_travails/blob/master/main.rb](benjdelt).
+- Implemented based on the answer of [benjdelt](https://github.com/benjdelt/knights_travails/blob/master/main.rb).
   
 ## Introduction
 Solution to the Project 2: Knights Travails made in Python
