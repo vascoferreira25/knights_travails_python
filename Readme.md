@@ -23,10 +23,12 @@ The coordinates represent the position on the board.
 
 The output is printed to console:
 
-> You made it in 3
-> Paths:
->          [3, 3] - STARTING POSITION
->          [4, 5]
->          [6, 4]
->          [4, 3]
-> Result:  [[4, 5], [6, 4], [4, 3]]
+```
+You made it in 3
+Paths:
+         [3, 3] - STARTING POSITION
+         [4, 5]
+         [6, 4]
+         [4, 3]
+Result:  [[4, 5], [6, 4], [4, 3]]
+```
